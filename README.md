@@ -1,8 +1,8 @@
 #  Machine Learning Course
 
 ![Machine Learning](https://img.shields.io/badge/Course-Machine%20learning-brightgreen.svg)
-![MIT](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Python](https://img.shields.io/badge/Python-3.6-red.svg)
+![MIT](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Size](https://img.shields.io/github/repo-size/syamkakarla98/Machine_Learning_Course.svg?color=ff69b4)
 ![Contributors](https://img.shields.io/github/contributors/syamkakarla98/Machine_Learning_Course.svg?color=yellow)
 
