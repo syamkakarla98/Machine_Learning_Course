@@ -3,7 +3,7 @@
 
 ## Regression
 
-**Regression analysis** is one of the most important fields in statistics and machine learning. There are many regression methods available. Linear regression is one of them.
+**Regression analysis** is one of the most important fields in _statistics_ and machine learning. There are many regression methods available. Linear regression is one of them.
 
 
 ## Why Regression ?
