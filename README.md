@@ -9,7 +9,7 @@ This repository holds the contents of machine learning course. This course helps
 ## What will I learn from this course?
 * How to apply Supervised and Unsupervised algorithms for different applications.
 * Hands on Experience on Machine learning Algorithm.
-* Developing a project in Machine Learning domain.
+* Developing a real time application in Machine Learning domain.
 
 
 
