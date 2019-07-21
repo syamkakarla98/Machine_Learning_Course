@@ -1,4 +1,4 @@
-﻿
+
 # Linear Regression Tutorial
 
 ## Regression
@@ -6,7 +6,7 @@
 **Regression analysis** is one of the most important fields in statistics and machine learning. There are many regression methods available. Linear regression is one of them.
 
 
-## Regression ?
+## Why Regression ?
 
 #### Regression searches for relationships among variables.
 
