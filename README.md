@@ -1,4 +1,10 @@
-#  Machine Learning Course 
+#  Machine Learning Course
+
+![Machine Learning](https://img.shields.io/badge/Course-Machine%20learning-brightgreen.svg)
+![MIT](https://img.shields.io/badge/license-MIT-blue.svg)
+![Size](https://img.shields.io/github/repo-size/syamkakarla98/Machine_Learning_Course.svg?color=ff69b4)
+![Contributors](https://img.shields.io/github/contributors/syamkakarla98/Machine_Learning_Course.svg?color=yellow)
+
 This repository holds the contents of machine learning course. This course helps you to gain the basic and sound knowlege in machine learning domian. It is an one stop to all machine learning concepts where every algorithm is explained with examples, sample codes in jupiter notebook. At the end of the course you will be able to build a real time application in Machine Learning domain. 
 
 
