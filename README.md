@@ -8,15 +8,13 @@ This Repository holds the contents of machine learning course. This course helps
 
 
 ## What will I learn from this course?
->
+* Supervised Learning
+* Unsupervised Learning 
 
 
-## Authors
 
-   * [**Syam Kakarla**](https://github.com/syamkakarla98)
-   * [**Chandu Siddartha**](https://github.com/siddartha19)
    
-### Prerequisites
+## Prerequisites
 
 The things that you must have a decent knowledge on: 
 ```
@@ -25,12 +23,12 @@ The things that you must have a decent knowledge on:
     * Machine Learning Terminology
 ```
 
-### Dependendicies
+## Dependendicies
 ```
     * python 3.6.x
 ```
 
-### Installation
+## Installation
 
 * Clone this repository:
 ``` bash
@@ -53,6 +51,11 @@ The things that you must have a decent knowledge on:
       pip install -r setup.py
 ```
 
+
+## Authors
+
+   * [**Syam Kakarla**](https://github.com/syamkakarla98)
+   * [**Chandu Siddartha**](https://github.com/siddartha19)
 
 
 ## License
