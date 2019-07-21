@@ -26,7 +26,10 @@ The things that you must have a decent knowledge on:
 ```
       git clone https://github.com/syamkakarla98/Machine_Learning_Course.git
 ```
-  or Click here to Download and unzip: [Click Here](https://github.com/syamkakarla98/Machine_Learning_Course/archive/master.zip)
+
+
+* or Click here to Download this repository: [Click Here](https://github.com/syamkakarla98/Machine_Learning_Course/archive/master.zip)
+
 
 * Goto Machine_Learning_Course folder:
 ```
