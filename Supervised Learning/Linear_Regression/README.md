@@ -1,8 +1,9 @@
 
 # Linear Regression Tutorial
 
-
-![](http://www.sthda.com/english/sthda-upload/images/machine-learning-essentials/linear-regression.png)
+<p align="center">
+  <img src="http://www.sthda.com/english/sthda-upload/images/machine-learning-essentials/linear-regression.png">
+</p>
 
 ## Regression
 
