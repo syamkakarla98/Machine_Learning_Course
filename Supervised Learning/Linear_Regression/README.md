@@ -37,7 +37,7 @@ Typically, you need regression to answer whether and how some phenomenon influen
 
 Regression is also useful when you want to forecast a response using a new set of predictors. For example, you could try to predict electricity consumption of a household for the next hour given the outdoor temperature, time of day, and number of residents in that household.
 
-**Regression** is used in many different fields: economy, computer science, social sciences, and so on. Its importance rises every day with the availability of large amounts of data and increased awareness of the practical value of data.
+**Regression** is used in many different fields: **economy**, computer science, social sciences, and so on. Its importance rises every day with the availability of large amounts of data and increased awareness of the practical value of data.
 
 # Let's dive into the [notebook](https://github.com/syamkakarla98/Machine_Learning_Course/blob/master/Supervised%20Learning/Linear_Regression/Linear_Regression.ipynb) above for full explanation...
 
