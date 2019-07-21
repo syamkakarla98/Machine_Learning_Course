@@ -28,7 +28,10 @@ The things that you must have a decent knowledge on:
 ```
 
 
-* Or Click here to Download this repository: [Click Here](https://github.com/syamkakarla98/Machine_Learning_Course/archive/master.zip)
+* Or Click here to Download this repository: 
+```
+[Click Here](https://github.com/syamkakarla98/Machine_Learning_Course/archive/master.zip)
+```
 
 
 * Goto Machine_Learning_Course folder:
