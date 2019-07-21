@@ -30,7 +30,7 @@ The independent features are called the **independent variables**, **inputs**, o
 
 **Regression problems usually have one continuous and unbounded dependent variable. The inputs, however, can be continuous, discrete, or even categorical data such as gender, nationality, brand, and so on**.
 
-It is a common practice to denote the outputs with 𝑦 and inputs with 𝑥. If there are two or more independent variables, they can be represented as the vector **𝐱 = (𝑥₁, …, 𝑥ᵣ)**, where 𝑟 is the number of inputs.
+It is a common practice to denote the outputs with 𝑦 and inputs with 𝑥. If there are two or more independent variables, they can be represented as the vector **𝐱 = (𝑥₁, …, 𝑥ᵣ)**, where **𝑟** is the number of inputs.
 
 ## When Do You Need Regression?
 Typically, you need regression to answer whether and how some phenomenon influences the other or how several variables are related. For example, you can use it to determine if and to what extent the experience or gender impact salaries.
