@@ -12,7 +12,7 @@
 
 ## Why Regression ?
 
-#### Regression searches for relationships among variables.
+#### <span style="color:blue">Regression searches for relationships among variables</font>.
 
 For example, you can observe several employees of some company and try to understand how their salaries depend on the features, such as experience, level of education, role, city they work in, and so on.
 
