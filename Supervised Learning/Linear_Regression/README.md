@@ -42,4 +42,3 @@ Regression is also useful when you want to forecast a response using a new set o
 # Let's dive into the [notebook](https://github.com/syamkakarla98/Machine_Learning_Course/blob/master/Supervised%20Learning/Linear_Regression/Linear_Regression.ipynb) above for full explanation...
 
 
-<span style="color:red">cardinals</span>
