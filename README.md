@@ -34,7 +34,7 @@ The things that you must have a decent knowledge on:
 
 ## Dependendicies
 ```
-       python 3.6.x
+      python 3.6.x
 ```
 
 ## Installation
