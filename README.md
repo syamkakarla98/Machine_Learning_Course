@@ -27,7 +27,7 @@ This repository holds the contents of machine learning course. This course helps
 
 The things that you must have a decent knowledge on: 
 ```
-    * Python
+    1. Python
     * Linear Algebra
     * Machine Learning Terminology
 ```
