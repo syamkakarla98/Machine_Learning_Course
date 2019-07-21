@@ -51,7 +51,7 @@ The things that you must have a decent knowledge on:
 
 * Goto Machine_Learning_Course folder:
 ``` bash
-     cd Machine_Learning_Course
+      cd Machine_Learning_Course
 ```
 
 
