@@ -28,13 +28,13 @@ This repository holds the contents of machine learning course. This course helps
 The things that you must have a decent knowledge on: 
 ```
     1. Python
-    * Linear Algebra
-    * Machine Learning Terminology
+    2. Linear Algebra
+    3. Machine Learning Terminology
 ```
 
 ## Dependendicies
 ```
-    * python 3.6.x
+       python 3.6.x
 ```
 
 ## Installation
