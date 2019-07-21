@@ -18,7 +18,7 @@ Similarly, you can try to establish a mathematical dependence of the prices of h
 
 Generally, in regression analysis, you usually consider some phenomenon of interest and have a number of observations. Each observation has two or more features. Following the assumption that (at least) one of the features depends on the others, you try to establish a relation among them.
 
-In other words, you need to find a function that maps some features or variables to others sufficiently well</font>.
+In other words, you need to find a function that maps some features or variables to others sufficiently well.
 
 The dependent features are called the **dependent variables**, **outputs**, or **responses**.
 
