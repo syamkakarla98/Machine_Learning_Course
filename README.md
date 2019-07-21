@@ -1,6 +1,5 @@
 #  Machine Learning Course 
-This repository holds the contents of machine learning course. This course helps you to gain the basic and sound knowlege in machine learning domian. It is an one stop to all machine learning concepts where every alogrithm is explained with examples and sample codes in jupiter notebook.
-
+This repository holds the contents of machine learning course. This course helps you to gain the basic and sound knowlege in machine learning domian. It is an one stop to all machine learning concepts where every alogrithm is explained with examples, sample codes in jupiter notebook. At the end of the course you will be able to build a real time application in Machine Learning domain. 
 
 
 ## What is Machine Learning?
@@ -8,8 +7,9 @@ This repository holds the contents of machine learning course. This course helps
 
 
 ## What will I learn from this course?
-* Supervised Learning
-* Unsupervised Learning 
+* How to apply Supervised and Unsupervised algorithms for different applications.
+* Hands on Experience on Machine learning Algorithm.
+* Developing a project in Machine Learning domain.
 
 
 
