@@ -15,6 +15,11 @@ The things that you must have a decent knowledge on:
     * Machine Learning Terminology
 ```
 
+### Dependendicies
+```
+    * python 3.6.x
+```
+
 ### Installation
 
 * Clone this repository:
@@ -31,6 +36,7 @@ The things that you must have a decent knowledge on:
 ```
      cd Machine_Learning_Course
 ```
+
 
 * This project is fully based on python. So, the necessary modules needed for computaion are placed in setup.py:
 ```
