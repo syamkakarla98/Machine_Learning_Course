@@ -1,6 +1,9 @@
 
 # Linear Regression Tutorial
 
+
+![](http://www.sthda.com/english/sthda-upload/images/machine-learning-essentials/linear-regression.png)
+
 ## Regression
 
 **Regression analysis** is one of the most important fields in _statistics_ and machine learning. There are many _regression methods_ available. _Linear regression_ is one of them.
