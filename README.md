@@ -1,4 +1,4 @@
-# Machine_Learning_Course
+# Machine Learning Course
 
 
 ## Authors
@@ -23,7 +23,7 @@ The things that you must have a decent knowledge on:
 ### Installation
 
 * Clone this repository:
-```
+``` bash
       git clone https://github.com/syamkakarla98/Machine_Learning_Course.git
 ```
 
@@ -33,13 +33,13 @@ The things that you must have a decent knowledge on:
 
 
 * Goto Machine_Learning_Course folder:
-```
+``` bash
      cd Machine_Learning_Course
 ```
 
 
 * This project is fully based on python. So, the necessary modules needed for computaion are placed in setup.py:
-```
+``` bash
       pip install -r setup.py
 ```
 
