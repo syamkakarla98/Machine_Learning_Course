@@ -1,4 +1,14 @@
 #  Machine Learning Course 
+This Repository holds the contents of machine learning course. This course helps you to gain the basic and sound knowlege in machine learning domian. It is an one stop to all machine learning concepts where every alogrithm is explained with examples and sample codes in jupiter notebook.
+
+
+
+## What is Machine Learning?
+> Machine learning is the scientific study of algorithms and statistical models that computer systems use in order to perform a specific task effectively without using explicit instructions, relying on patterns and inference instead. It is seen as a subset of artificial intelligence.
+
+
+## What will I learn from this course?
+>
 
 
 ## Authors
