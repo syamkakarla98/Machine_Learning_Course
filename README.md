@@ -57,7 +57,7 @@ The things that you must have a decent knowledge on:
 
 * This project is fully based on python. So, the necessary modules needed for computaion are placed in setup.py:
 ``` bash
-      pip install -r setup.py
+      pip install -r setup.txt
 ```
 
 
