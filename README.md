@@ -62,8 +62,9 @@ The things that you must have a decent knowledge on:
 ## How to use
 * Go to the directory and use below command to access the jupyter notebooks.
 ```bash
-   jupyter notebook
+        jupyter notebook
 ```
+
 
 ## Authors
 
