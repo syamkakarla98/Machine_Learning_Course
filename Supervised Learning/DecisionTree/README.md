@@ -6,4 +6,4 @@
 * **Construction**: top-down, chooses a variable to split the data such that the target variables within each region are as homogeneous as possible. Two common metrics: gini impurity or information gain, won't matter much in practice.
 Advantage: simply to understand & interpret, mirrors human decision making
 
-Click [here](https://github.com/syamkakarla98/Machine_Learning_Course/blob/master/Supervised%20Learning/DecisionTree/Decision_Tree.ipynb) to dig into the code.
+### Click [here](https://github.com/syamkakarla98/Machine_Learning_Course/blob/master/Supervised%20Learning/DecisionTree/Decision_Tree.ipynb) to dig into the code.
