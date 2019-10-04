@@ -74,4 +74,4 @@ The things that you must have a decent knowledge on:
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/syamkakarla98/Machine_Learning_Course/blob/master/LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/syamkakarla98/Machine_Learning_Course/blob/master/LICENSE.md) file for details.
