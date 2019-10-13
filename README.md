@@ -71,6 +71,12 @@ The things that you must have a decent knowledge on:
    * [**Syam Kakarla**](https://github.com/syamkakarla98)
    * [**Chandu Siddartha**](https://github.com/siddartha19)
 
+## Authors
+
+   * [**Syam Kakarla**](https://github.com/syamkakarla98)
+   * [**Chandu Siddartha**](https://github.com/siddartha19)
+
+
 
 ## License
 
