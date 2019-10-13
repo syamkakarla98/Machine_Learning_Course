@@ -39,6 +39,6 @@ Regression is also useful when you want to forecast a response using a new set o
 
 **Regression** is used in many different fields: **economy**, **computer science**, **social sciences**, and so on. Its importance rises every day with the availability of large amounts of data and increased awareness of the practical value of data.
 
-# Let's dive into the [notebook](https://github.com/syamkakarla98/Machine_Learning_Course/blob/master/Supervised%20Learning/Linear_Regression/Linear_Regression.ipynb) above for full explanation...
+# Let's dive into the [notebook](https://github.com/syamkakarla98/Machine_Learning_Course/blob/master/Supervised%20Learning/Linear_Regression/Linear_Regression.ipynb) above for full explanation.
 
 
