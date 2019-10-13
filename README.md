@@ -1,3 +1,4 @@
+
 #  Machine Learning Course
 
 ![Machine Learning](https://img.shields.io/badge/Course-Machine%20learning-brightgreen.svg)
@@ -65,11 +66,6 @@ The things that you must have a decent knowledge on:
      jupyter notebook
 ```
 
-
-## Authors
-
-   * [**Syam Kakarla**](https://github.com/syamkakarla98)
-   * [**Chandu Siddartha**](https://github.com/siddartha19)
 
 ## Authors
 
